@@ -1,5 +1,5 @@
 import React from 'react'
-import { DisplayPriceInRupees } from '../utils/DsiplayPriceInRupees'
+import { DisplayPriceInRupees } from '../utils/DisplayPriceInRupees'
 import { Link } from 'react-router-dom'
 import { valideURLConvert } from '../utils/valideURLConvert'
 import { pricewithDiscount } from '../utils/PriceWithDiscount'
